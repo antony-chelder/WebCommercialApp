@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096669288185",
+    "project_id": "prettyfoxy-37397",
+    "storage_bucket": "prettyfoxy-37397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096669288185:android:09dfad77fddefa6a1bf428",
+        "android_client_info": {
+          "package_name": "com.prettyfoxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096669288185-eaten0c0jtme0p3lmu00au378ivpqkcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QiUykqRAM3J7VvOsOkynTSumHZ6Nydo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096669288185-eaten0c0jtme0p3lmu00au378ivpqkcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
